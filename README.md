@@ -1,36 +1,48 @@
 ### Hi, I'm Samuel P 👋
 
-**Python Developer (4+ yrs) · Web Scraping, Automation & Full-Stack Tools**
+**Python & Full-Stack Developer (4+ yrs) · Web Scraping, Automation & Enterprise Tools**
 
-I build production-grade web scrapers, anti-bot evasion frameworks, large-scale e-commerce data pipelines, operations portals, desktop GUI apps, and AI-powered automation workflows.
+I build production-grade web scrapers, anti-bot evasion frameworks, enterprise operations portals, full-stack automation platforms, desktop GUI apps, and AI-powered workflows.
 
 ---
 
 ### 🚀 What I'm Working On
-- 🛠️ **Scraping Operations & Management Portals** — Centralized portals, multi-engine launchers (`Scrapy`, `Playwright`, `SeleniumBase`), and live monitoring dashboards.
-- 🛒 **E-Commerce & Marketplace Extraction** — Large-scale Amazon seller extraction, BigCommerce ~200k-product migrations, and resilient anti-bot scraping (Imperva, Cloudflare, PerimeterX, Akamai, DataDome).
-- 📊 **Workflow & Attendance Automation** — `FastAPI` + `WebSockets` web apps, Timechamp/biometric reporting pipelines, and action-code automation tools.
-- 🤝 **Outreach & Lead Capture Systems** — LinkedIn outreach automation, camera/field capture workflows, and client dashboards.
-- 🤖 **AI & LLM Workflows** — Prompt-driven image generation/editing (`OpenAI`, `Google Gemini`) and LLM-powered CSS selector extraction (`Hugging Face`).
+- 🕷️ **Scraping & Catalog Operations:** Multi-engine scrapers (`Scrapy`, `Playwright`, `SeleniumBase (CDP Mode)`, `curl_cffi`), anti-bot evasion (Imperva, Cloudflare, PerimeterX, Akamai, DataDome), and enterprise scraping management portals.
+- 🏗️ **Enterprise Full-Stack Platforms:** `FastAPI` + `React` + `TypeScript` systems with RBAC, real-time `WebSockets`, GPS/audit workflows, and `Docker` / **Cloud Run** deployments.
+- 📊 **Workforce, Outreach & ERP Automation:** Windows active-time tracking (`C# / .NET` + Win32), LinkedIn Sales Navigator outreach command centers, and scheduled Lawson AC12 / ME2M Excel pipelines.
+- 🤖 **AI & LLM Workflows:** Prompt-driven image generation/editing (`OpenAI`, `Google Gemini`) and LLM-powered CSS selector extraction (`Hugging Face`).
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Scraping & Anti-Bot:** `Python` · `Scrapy` · `Playwright` · `Selenium` · `SeleniumBase (CDP Mode)` · `BeautifulSoup` · `curl_cffi`  
-**Web & APIs:** `FastAPI` · `WebSockets` · `REST APIs` · `BigCommerce API` · `Google Drive & Sheets API`  
-**Data & Excel:** `Pandas` · `NumPy` · `MySQL` · `SQLite` · `openpyxl` · `xlsxwriter`  
-**Desktop GUI & Media:** `PySide6` · `PyQt5` · `Tkinter` · `OpenCV` · `Pillow` · `ImageMagick` · `PyInstaller`  
-**Cloud, DevOps & AI:** `GCP Compute Engine` · `Docker` · `OpenAI API` · `Gemini API` · `Hugging Face` · `Git` · `Tailscale`
+**Backend & Scraping:** `Python` · `FastAPI` · `Scrapy` · `Playwright` · `Selenium` · `SeleniumBase` · `BeautifulSoup` · `curl_cffi` · `SQLAlchemy`  
+**Frontend:** `React 19` · `TypeScript` · `JavaScript` · `Vite` · `Tailwind CSS` · `Recharts`  
+**Desktop & Systems:** `C# / .NET` · `Win32 P/Invoke` · `PySide6` · `PyQt5` · `Tkinter` · `OpenCV` · `Pillow` · `PyInstaller`  
+**Data & APIs:** `Pandas` · `NumPy` · `MySQL` · `SQLite` · `PostgreSQL` · `openpyxl` · `xlsxwriter` · `BigCommerce API` · `Google Drive & Sheets API`  
+**Cloud, DevOps & AI:** `GCP (Compute Engine, Cloud Run)` · `Docker` · `OpenAI API` · `Gemini API` · `Hugging Face` · `Git` · `Tailscale`
 
 ---
 
 ### 📌 Highlighted Work
-- **BigCommerce Live-to-Sandbox Migration Tool** — Full migration pipeline for ~200k products (categories, variants, images, custom fields) using `ThreadPoolExecutor`, batched checkpoints, upsert-by-SKU, and JSON caching.
-- **Cross-Bot Detection Evasion Framework** — Standardized scraping framework using CDP-mode stealth, fingerprint spoofing, and adaptive session persistence across major anti-bot vendors.
-- **Scraping Operations Management Portal** — Internal management & orchestration portal for running, monitoring, and managing scraping operations at scale.
-- **Attendance & Timechamp Automation (`FastAPI` + `WebSockets`)** — Containerized web app transforming biometric, Timechamp, and manual logs into styled Excel reports.
-- **Bulk File Downloader & Desktop GUI Suite** — Dark-themed `PySide6` & `Tkinter` desktop apps (Dropbox/Drive/direct downloads, VLOOKUP merge, PDF/website screenshots, batch image conversion) packaged with `PyInstaller`.
+
+- **Kuri Project — Enterprise Field Verification & Quality Audit System** (`FastAPI` · `React 19` · `TypeScript` · `PWA` · `Cloud Run`)  
+  Production field intelligence and telecalling platform pairing sub-meter GPS telemetry with cryptographic timestamping, tamper-evident watermarking, automated Excel dispatch, 6-tier RBAC, and 350+ automated tests.
+
+- **Scraping Operations Management Portal** (`React 19` · `TypeScript` · `Tailwind CSS` · `Recharts`)  
+  Enterprise SaaS operations & catalog harvesting platform featuring real-time executive KPIs, Linear-style task workstations, QC approval workflows, and daily SKU volume analytics.
+
+- **Vserve-TimeChamp — Windows Workforce & Active-Time Tracker** (`C# / .NET` · `Win32 P/Invoke` · `UI Automation` · `Docker`)  
+  Zero-dependency, silent background active-time tracker for 20–500+ employee fleets with a floating live stopwatch widget, active app/domain productivity classification, and an admin analytics portal.
+
+- **Outreach Command Center (`linkedin-outreach-app`)** (`FastAPI` · `Python` · `SQLAlchemy` · `SQLite/PostgreSQL` · `Docker`)  
+  Full-stack web dashboard wrapping LinkedIn Sales Navigator automation with multi-account campaign management, daily send-limit tracking, lead event logs, and live run monitoring.
+
+- **Action Code & ME2M Automation Dashboard** (`Python` · `Docker` · `Cloud Run`)  
+  Web UI and scheduler for Lawson AC12 Master File & ME2M `.xlsx` pipelines with background execution, mid-flight cancellation, interactive run charts, and automated Pivot Summary workbook generation.
+
+- **BigCommerce Live-to-Sandbox Migration & Cross-Bot Evasion Framework** (`Python` · `SeleniumBase` · `ThreadPoolExecutor`)  
+  Migrated ~200k products with batched checkpoints and upsert-by-SKU caching, alongside a standardized CDP-mode stealth framework bypassing Imperva, Cloudflare, PerimeterX, Akamai, and DataDome.
 
 ---
 
